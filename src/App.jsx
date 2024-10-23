@@ -5,7 +5,7 @@ import ContactList from "./components/ContactList/ContactList.jsx";
 function App() {
   return (
     <>
-      <h1>Phonebook</h1>
+      <h1>Phonebook (by redux)</h1>
       <ContactForm />
       <SearchBox />
       <ContactList />
